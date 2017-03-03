@@ -1,0 +1,17 @@
+{
+  "name": "fpm_node_ws",
+  "version": "1.0.0",
+  "description": "Express server for freepool application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.0",
+    "body-parser":"1.17.0",
+    "level":"1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
